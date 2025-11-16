@@ -17,3 +17,5 @@ export HL_MODE="update"
 
 # Forward all arguments (if any) to HL-Setup
 exec "$HL_SETUP" "$@"
+
+
